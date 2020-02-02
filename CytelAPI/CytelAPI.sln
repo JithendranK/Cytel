@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CytelAPI", "CytelAPI\CytelAPI.csproj", "{962852A5-B352-4A7D-8DAC-7F300AFEE513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962852A5-B352-4A7D-8DAC-7F300AFEE513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962852A5-B352-4A7D-8DAC-7F300AFEE513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962852A5-B352-4A7D-8DAC-7F300AFEE513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962852A5-B352-4A7D-8DAC-7F300AFEE513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CED9E11-81EB-4A47-B113-B20DD912F47C}
+	EndGlobalSection
+EndGlobal
